@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1075863820664",
+    "firebase_url": "https://michaelanyi-40832.firebaseio.com",
+    "project_id": "michaelanyi-40832",
+    "storage_bucket": "michaelanyi-40832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075863820664:android:3565f3adef2520145c508d",
+        "android_client_info": {
+          "package_name": "co.sensiblefolk.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075863820664-iqkgohg4q7c9729p1qvevhal9l23vgcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA36g2t7JPimJawvkS716_cdqQlkhdgij8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075863820664-iqkgohg4q7c9729p1qvevhal9l23vgcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
